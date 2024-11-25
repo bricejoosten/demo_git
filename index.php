@@ -1,5 +1,13 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuisine</title>
+</head>
+<body>
 
-    echo("Bonjour, ceci est la page d'accueil de mon futur site de recettes de cuisine !");
-
-?>
+    <h1>Page d'accueil</h1>
+    
+</body>
+</html>
